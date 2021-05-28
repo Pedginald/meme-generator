@@ -1,5 +1,5 @@
 import React from 'react';
-import Trollface from './Trollface.jpg'
+import Trollface from './Trollface.png'
 
 function Header() {
 	return (
